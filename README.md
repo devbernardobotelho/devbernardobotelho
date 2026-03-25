@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 👋, I'm Bernardo</h1>
-## ⚡ About Me  
+##⚡𝘼𝙗𝙤𝙪𝙩 𝙢𝙚
 🎯 I’m a **Data Engineer**, specializing in building and optimizing data pipelines and large-scale data processing solutions.  
 🤝 I’m highly motivated, easy to work with, and I enjoy collaborating in teams and leading/presenting meetings.  
 
