@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 👋, I'm Bernardo</h1>
-# 👋 Hello world 👋, I'm Bernardo  
+
 
 ---
 
